@@ -1,0 +1,43 @@
+Presentation plan
+
+Focus on one attribute other than alcohol in the red wine data that you can justify may have a significant impact on wine quality. 
+Write a reasoning why we are not only looking at alcohol. Maybe we can also look at that. 
+
+Overview - comparing red and white wine attributes. 
+Is there a difference in which attributes determine quality of wine depending on the colour.  
+Red vs White 
+Introduce the data set 
+Data overview - we have this many rows, columns, attributes of wine 
+Show both sample sizes 
+Explain why we are starting with the white wine - larger sample size 
+So now let's look at the white wine data set in more detail 
+White wine data set overview 
+How I decided to divide the data. We are going to be looking at the average quality of red wine in this data sample, and what attributes set those wines apart that are above the average. 
+
+all white wine attributes - heat map 
+Then use pairplot to focus 
+Top three interesting ones, and why i chose to look at them 
+Pick most interesting and show more graphs 
+
+Red wine data set overview - are the findings in the white wine data set comparable. drastically lower sample size.
+Overall we have a slightly lower average. From 5.9 to 5.3. But there are still X amount of wines that lie above average, so lets see if the most significant values for red wine will be similar to the ones found to be significant in the white wine date set. 
+
+So far yes, but on a much smaller scale 
+all red wine attributes - heat map 
+Then use pairplot to focus 
+Top three interesting ones, and why i chose to look at them 
+Pick most interesting and show more graphs 
+Conclusion - are red and white wine attributes comparable? 
+Future research / real life implications 
+Grape type (and therefore size) and soil grown in make a significant difference in wine quality. These should be included in the data set
+Sample size should be more inclusive in future analysis for an accurate result. Equal sizes regarding different categories - such as red/white/grape type 
+Social wine use can also not be ignored when discussing wine quality 
+This is purely interest and researched based. If this type of research were to be done for a wine production or marketing company it is important to take time of year, meal choice, night out, summer drinks into consideration when talking about quality of wine. Different wines are appropriate for different occasions. Like pairing a wine to a certain meal. You can pair a drink to a certain situation. 
+
+
+Notes 
+I might have to switch the order. Showing statistical significance in the larger data set of white wine, and then seeing if that is comparable to the red wine results, ultimately concluding whether or not these could have been combined. 
+Should i do them clearly broken up red wine then white wine, or divided between each topic data overview - red & white, average comparison re&white, etc. 
+I think maybe for the data overview it would make sense to compare both. Also to show the difference in sample sizes (cite why larger sample sizes is better and give a source, source list at the end)  
+Scatterplot to see pos or neg correlation 
+Pairplot function to see all scatterplot correlation 
